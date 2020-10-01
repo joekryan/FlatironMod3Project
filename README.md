@@ -24,8 +24,8 @@ To test these hypotheses we used the following methods:
 
 ## Results
 
-<p align="center">
-  <img src="https://github.com/joekryan/movie_database_project/blob/master/images/dramedy.png" width=850>
+<p align="left">
+  <img src="https://github.com/joekryan/movie_database_project/blob/master/images/dramedy.png">
 </p>
 We found that the movie genre with the highest rating is Drama. We also found that non-English language movies have significantly higher ratings, however the effect size is tiny (Cohen's D = 0.23).
 
