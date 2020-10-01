@@ -29,3 +29,12 @@ To test these hypotheses we used the following methods:
 </p>
 We found that the movie genre with the highest rating is Drama. We also found that non-English language movies have significantly higher ratings, however the effect size is tiny (Cohen's D = 0.23).
 
+
+<p align="left">
+  <img src="https://github.com/joekryan/movie_database_project/blob/master/images/day.png">
+</p>
+We also found that although the quarter and month of release has no significant effect on a movie's revenue, the day on which it is released does. Movies released on Wednseday have a significantly higher revenue than movies not released on Wednesday /
+
+## Conclusion
+
+For a movie that is most likely to be highly rated and have high revenues, release a drama film on a Wednesday!
