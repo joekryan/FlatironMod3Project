@@ -3,7 +3,7 @@ The aim of this project was to answer 2 business questions:
 * What is the most popular genre of movie?
 * When is the best time to release a movie?
 
-For more information, please see the presentation.pdf file
+For more information, please see the [presentation.pdf](https://github.com/joekryan/movie_database_project/blob/master/presentation.pdf) file
 
 ## Methods Used
 
