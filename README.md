@@ -31,7 +31,7 @@ We found that the movie genre with the highest rating is Drama. We also found th
 
 
 <p align="left">
-  <img src="https://github.com/joekryan/movie_database_project/blob/master/images/day.png">
+  <img src="https://github.com/joekryan/movie_database_project/blob/master/images/day.png" width=500>
 </p>
 We also found that although the quarter and month of release has no significant effect on a movie's revenue, the day on which it is released does. Movies released on Wednseday have a significantly higher revenue than movies not released on Wednesday /
 
